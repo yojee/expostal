@@ -1,3 +1,4 @@
+CC = clang
 MIX = mix
 CFLAGS += -g -O3 -ansi -pedantic -Wall -Wextra -Wno-unused-parameter
 
